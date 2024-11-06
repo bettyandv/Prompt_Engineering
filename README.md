@@ -1,5 +1,5 @@
 # Prompt_Engineering
-Notes about Deeplearning.AI course about prompt engineering
+Notes about Deeplearning.AI course-"ChatGPT Prompt Engineering for Developers"
 
 Iterative  
 Summarizing  
